@@ -1,0 +1,102 @@
+[
+    {
+        "id": 1,
+        "title": "Complete homework",
+        "description": "Finish math and English assignments",
+        "status": "pending",
+        "priority": "high",
+        "assignedTo": "Jasim",
+        "createdAt": "2026-04-30T09:00:00Z",
+        "deadline": "2026-05-02T23:59:00Z"
+    },
+    {
+        "id": 2,
+        "title": "Go for a walk",
+        "description": "Walk for 30 minutes in the evening",
+        "status": "completed",
+        "priority": "medium",
+        "assignedTo": "Rahim",
+        "createdAt": "2026-04-28T16:00:00Z",
+        "deadline": "2026-04-28T18:00:00Z"
+    },
+    {
+        "id": 3,
+        "title": "Read a book",
+        "description": "Read 20 pages of a novel",
+        "status": "pending",
+        "priority": "low",
+        "assignedTo": "Karim",
+        "createdAt": "2026-04-29T10:30:00Z",
+        "deadline": "2026-05-05T20:00:00Z"
+    },
+    {
+        "id": 4,
+        "title": "Practice coding",
+        "description": "Solve 3 JavaScript problems",
+        "status": "in-progress",
+        "priority": "high",
+        "assignedTo": "Jasim",
+        "createdAt": "2026-04-27T14:00:00Z",
+        "deadline": "2026-05-01T22:00:00Z"
+    },
+    {
+        "id": 5,
+        "title": "Clean the room",
+        "description": "Organize desk and clean floor",
+        "status": "pending",
+        "priority": "medium",
+        "assignedTo": "Sumi",
+        "createdAt": "2026-04-30T08:00:00Z",
+        "deadline": "2026-05-03T12:00:00Z"
+    },
+    {
+        "id": 6,
+        "title": "Watch tutorial",
+        "description": "Learn React basics from a video",
+        "status": "completed",
+        "priority": "low",
+        "assignedTo": "Rahim",
+        "createdAt": "2026-04-26T19:00:00Z",
+        "deadline": "2026-04-27T21:00:00Z"
+    },
+    {
+        "id": 7,
+        "title": "Exercise",
+        "description": "Do 20 minutes of workout",
+        "status": "in-progress",
+        "priority": "high",
+        "assignedTo": "Karim",
+        "createdAt": "2026-04-30T06:30:00Z",
+        "deadline": "2026-04-30T07:00:00Z"
+    },
+    {
+        "id": 8,
+        "title": "Buy groceries",
+        "description": "Milk, eggs, bread, and fruits",
+        "status": "pending",
+        "priority": "medium",
+        "assignedTo": "Sumi",
+        "createdAt": "2026-04-29T17:00:00Z",
+        "deadline": "2026-05-01T19:00:00Z"
+    },
+    {
+        "id": 9,
+        "title": "Call a friend",
+        "description": "Catch up with an old friend",
+        "status": "completed",
+        "priority": "low",
+        "assignedTo": "Jasim",
+        "createdAt": "2026-04-25T20:00:00Z",
+        "deadline": "2026-04-25T21:00:00Z"
+    },
+    {
+        "id": 10,
+        "title": "Plan next day",
+        "description": "Prepare a to-do list for tomorrow",
+        "status": "pending",
+        "priority": "high",
+        "assignedTo": "Rahim",
+        "createdAt": "2026-04-30T21:00:00Z",
+        "deadline": "2026-05-01T08:00:00Z"
+    }
+]
