@@ -1,11 +1,11 @@
-// import { CircleDollar } from "@gravity-ui/icons";
+import { CircleDollar } from "@gravity-ui/icons";
 import { Card, Link } from "@heroui/react";
 const TasksCard = ({ task }) => {
     const { title, description } = task;
     return (
 
         <Card variant="primary" className="border-2 border-solid border-primary">
-            {/* <CircleDollar aria-label="Dollar sign icon" className="text-primary size-6" role="img" /> */}
+            <CircleDollar aria-label="Dollar sign icon" className="text-primary size-6" role="img" />
             <Card.Header>
                 <Card.Title> {title}! </Card.Title>
                 <Card.Description>
